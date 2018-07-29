@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto Slab' , Arial , sans-serif;
+}
+
+.header-nav {
+  background-image: url(../img/123.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+
+#red-home {
+  color: #ff5c5c ;
+}
+
+nav {
+  margin: 0px;
+  box-shadow: -1px -4px 20px 2px black;
+}
+
+nav img {
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #3c52ba;
+  font-size: 30px;
+  padding: 15px;
+  text-align: center;
+  float: right;
+  margin-top: 1.5%;
+}
+
+nav a:hover {
+  color: #ff5c5c ;
+  transition: 1s;
+}
+
+#seja {
+  font-size: 50px;
+  font-weight: bold;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  color: #666666;
+}
+
+header h2 {
+  color: #666666;
+  margin: 30px 10px 10px 10px;
+  font-size: 38px;
+  font-weight: bold;
+}
+
+header p {
+  color: #666666;
+  margin: 30px 10px;
+  font-size: 25px;
+}
+
+li {
+  color: #565656;
+  font-weight: bold;
+  font-size: 20px;
+  }
+
+.hr-blue{
+  border: 10px solid #3c52ba;
+  width: 6%;
+  margin-left: 10px;
+}
+
+.hr-red {
+  border: 10px solid #ff5c5c;
+  width: 10%;
+  margin-left: 9px;
+}
+
+#igreja-section {
+    position: absolute;
+    left: 780px;
+    top: 150px;
+}
+
+
+
+/*  Style for "HR" #igreja-section  */
+
+#hr-blue{
+  border: 10px solid #3c52ba;
+  width: 15%;
+  margin-left: 2px;
+}
+
+#hr-red {
+  border: 10px solid #ff5c5c;
+  width: 25%;
+  margin-left: 2px;
+}
